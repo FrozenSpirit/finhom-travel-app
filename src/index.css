@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+  --primary-dark:#5651e5;
+  --primary-light:#709dff;
+}
+
+
+@layer base{
+  li{
+    @apply p-4 text-xl
+  }
+
+  h1{
+    @apply text-3xl md:text-4xl font-bold
+  }
+
+  h2{
+    @apply text-2xl md:text-3xl font-semibold
+  }
+
+  i{
+    @apply p-2
+  }
+
+  button{
+    @apply p-3 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white rounded-md
+  }
+}
