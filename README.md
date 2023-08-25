@@ -1,70 +1,22 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Finhom
 
-## Available Scripts
+Single Page Travel Website which is mobile responsive.
+Created using React Js and Tailwind CSS
 
-In the project directory, you can run:
+Preview : 
 
-### `npm start`
+Full Screen View:
+<img width="1440" alt="1" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/cfddc53f-de0d-4974-9493-325215ab6cef">
+<img width="1440" alt="2" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/35d639d8-5010-4211-a516-e042d2d8c424">
+<img width="1440" alt="3" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/3462d865-4e99-4235-a715-41b583d09bb1">
+<img width="1440" alt="4" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/8272f5c8-1732-4362-a559-313c83204401">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Mobile View : 
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1440" alt="5" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/58738064-77d6-4c9a-9cd0-c9c1b8a88417">
+<img width="1440" alt="6" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/bed178d3-79dc-4357-b303-ba6dfdbae85c">
+<img width="1440" alt="7" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/43bd040d-dd8e-4697-a296-3498758a7554">
+<img width="1440" alt="8" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/3edea110-3db0-4979-9a49-60019bbe50ec">
+<img width="1440" alt="9" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/a6df96b0-a3e5-44bd-a94c-d5735d276f15">
