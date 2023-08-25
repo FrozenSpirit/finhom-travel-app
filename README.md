@@ -6,7 +6,8 @@ Created using React Js and Tailwind CSS
 
 Preview : 
 
-Full Screen View:
+Desktop View:
+
 <img width="1440" alt="1" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/cfddc53f-de0d-4974-9493-325215ab6cef">
 <img width="1440" alt="2" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/35d639d8-5010-4211-a516-e042d2d8c424">
 <img width="1440" alt="3" src="https://github.com/FrozenSpirit/finhom-travel-app/assets/84676444/3462d865-4e99-4235-a715-41b583d09bb1">
